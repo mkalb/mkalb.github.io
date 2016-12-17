@@ -1,4 +1,5 @@
 ## Projekte ##
+
 ### stexfires ###
 **s**tructured **tex**t **fi**le **re**cord **s**tream - A stream-based Java 8 library to work with data from structured text files.
 
@@ -12,7 +13,7 @@ Terasology Launcher is the official launcher for the open source game Terasology
 ## Blog ##
 * [Verbesserungen in TIBCO Spotfire 7.5, 7.6 und 7.7](http://www.prodato.de/verbesserungen-in-spotfire/)
 
-## Kontakt ##
+## Kontakt und Profile ##
 * GitHub [github.com/mkalb](https://github.com/mkalb)
 * Twitter [twitter.com/mkalbde](https://twitter.com/mkalbde)
 * XING [www.xing.com/profile/Mathias_Kalb2](https://www.xing.com/profile/Mathias_Kalb2)
