@@ -18,7 +18,7 @@ Terasology Launcher is the official launcher for the open source game Terasology
 * Twitter [twitter.com/mkalbde](https://twitter.com/mkalbde)
 * XING [www.xing.com/profile/Mathias_Kalb2](https://www.xing.com/profile/Mathias_Kalb2)
 * Mail [mkalb@mkalb.de](mailto:mkalb@mkalb.de)
-* Website [www.mathiaskalb.de](https://www.mathiaskalb.de)
+* Website [www.mathiaskalb.de](http://www.mathiaskalb.de)
 * Skype, Threema, iMessage, Meetup
 
 ## Beruf ##
