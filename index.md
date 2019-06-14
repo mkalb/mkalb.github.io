@@ -9,12 +9,11 @@
 * GitHub [github.com/mkalb](https://github.com/mkalb)
 * Twitter [twitter.com/mkalbde](https://twitter.com/mkalbde)
 * XING [www.xing.com/profile/Mathias_Kalb2](https://www.xing.com/profile/Mathias_Kalb2)
-* Mail [mkalb@mkalb.de](mailto:mkalb@mkalb.de)
 * Website [www.mathiaskalb.de](http://www.mathiaskalb.de/)
 
 ## Beruf
-* Senior Consultant Business Intelligence
-* PRODATO Integration Technology [www.prodato.de](https://www.prodato.de/)
+* PRODATO Integration Technology GmbH [www.prodato.de](https://www.prodato.de/)
+* Managing Consultant
 * Mail [mathias.kalb@prodato.de](mailto:mathias.kalb@prodato.de)
 
 ## Open-Source-Projekte
