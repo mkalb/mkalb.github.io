@@ -2,14 +2,13 @@
 
 ## Blog und Webinar
 * 2016-11-09 Blog: [Verbesserungen in TIBCO Spotfire 7.5, 7.6 und 7.7](https://www.prodato.de/verbesserungen-in-spotfire/)
-* 2018-06-13 Webinar: [Enterprise Integration mit Talend ESB](https://www.prodato.de/18-06-13-webinar-enterprise-integration-mit-talend-esb/) ([Talend-Webinar-Download](https://www.prodato.de/portfolio/technologien/talend/))
+* 2018-06-13 Webinar: [Enterprise Integration mit Talend ESB](https://www.prodato.de/18-06-13-webinar-enterprise-integration-mit-talend-esb/)
 * 2018-12-14 Blog: [TIBCO Spotfire X – Neues Major Release der Datenanalysesoftware verfügbar](https://www.prodato.de/spotfire-x/)
 
 ## Kontakt und Profile
 * GitHub [github.com/mkalb](https://github.com/mkalb)
 * Twitter [twitter.com/mkalbde](https://twitter.com/mkalbde)
 * XING [www.xing.com/profile/Mathias_Kalb2](https://www.xing.com/profile/Mathias_Kalb2)
-* Website [www.mathiaskalb.de](http://www.mathiaskalb.de/)
 
 ## Beruf
 * PRODATO Integration Technology GmbH [www.prodato.de](https://www.prodato.de/)
